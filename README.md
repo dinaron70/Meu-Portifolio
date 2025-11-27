@@ -1,1 +1,1 @@
-# Meu-Portifolio
+Esse portfólio é um projeto desenvolvido para apresentar minhas habilidades, experiências e projetos pessoais/profissionais de forma organizada e visualmente atrativa. Ele funciona como uma vitrine digital, permitindo que recrutadores, colegas e visitantes conheçam melhor meu trabalho. 
